@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('./header-image.png');
+}
+form{
+    background-color: rgb(247, 8, 8, 0.6);
+    width: 400px;
+    margin: 100px auto;
+    height: 100%;
+    padding: 20px;
+    border-radius: 3px;
+}
+label{
+    padding-left: 20px;
+    color: white;
+}
+input{
+    padding: 5px;
+    margin: 10px;
+    
+}
+.left input{
+    margin-left: 50px;
+}
+
+
